@@ -3,3 +3,5 @@ heisnan
 ?>
 
 funker det?
+
+hurra det funker!
